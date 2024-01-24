@@ -1,6 +1,6 @@
 #area=base*altura/2
-base = int(input("Ingrese la base"))
-altura = int (input("Ingrese la altura"))
+base = int(input("Ingrese la base\n"))
+altura = int (input("Ingrese la altura\n"))
 
 area = (base*altura)/2
 

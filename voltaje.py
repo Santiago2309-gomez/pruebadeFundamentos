@@ -7,6 +7,6 @@ v5 = int(input("Ingrese el quinto voltaje\n"))
 prom = (v1+v2+v3+v4+v5)/5
 
 if prom > 258:
-    print (f"voltaje alto{prom}")
+    print (f"voltaje alto {prom} voltios")
 else:
-    print("Voltaje correcto")
+    print(f"el voltaje {prom} voltios es correcto")
